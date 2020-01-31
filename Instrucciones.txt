@@ -1,0 +1,4 @@
+--Pegar carpeta "LuisMatematicas" en la carpeta de programas --
+--para que los graficos del Proyecto en NetBeans 
+Funcionen Bien!!
+
